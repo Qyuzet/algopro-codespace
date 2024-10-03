@@ -33,7 +33,7 @@ This codespace is designed to provide a consistent development environment for s
 
 ## Usage
 
-(Provide instructions on how to use this codespace, including any commands to run or setup steps)
+Any
 
 ## Contributing
 
@@ -44,6 +44,7 @@ If you'd like to contribute to this project, please follow these steps:
 4. Submit a pull request
 
 ## License
+GNU
 
 (Include license information if applicable)
 
