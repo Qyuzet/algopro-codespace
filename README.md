@@ -1,6 +1,6 @@
 # AlgoPro Codespace
 
-This repository contains Python scripts for the Algorithm and Programming course. It includes various programming exercises and examples.
+This repository contains Python scripts for the Algorithm and Programming course. It includes various programming exercises and examples..
 
 ## Contents
 
